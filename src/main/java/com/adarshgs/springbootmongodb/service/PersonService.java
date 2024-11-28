@@ -1,6 +1,6 @@
-package com.dailycodebuffer.springbootmongodb.service;
+package com.adarshgs.springbootmongodb.service;
 
-import com.dailycodebuffer.springbootmongodb.collection.Person;
+import com.adarshgs.springbootmongodb.collection.Person;
 import org.bson.Document;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

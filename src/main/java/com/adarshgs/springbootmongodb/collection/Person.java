@@ -1,4 +1,4 @@
-package com.dailycodebuffer.springbootmongodb.collection;
+package com.adarshgs.springbootmongodb.collection;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Builder;

@@ -1,7 +1,7 @@
-package com.dailycodebuffer.springbootmongodb.controller;
+package com.adarshgs.springbootmongodb.controller;
 
-import com.dailycodebuffer.springbootmongodb.collection.Person;
-import com.dailycodebuffer.springbootmongodb.service.PersonService;
+import com.adarshgs.springbootmongodb.collection.Person;
+import com.adarshgs.springbootmongodb.service.PersonService;
 import org.bson.Document;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

@@ -1,6 +1,6 @@
-package com.dailycodebuffer.springbootmongodb.repository;
+package com.adarshgs.springbootmongodb.repository;
 
-import com.dailycodebuffer.springbootmongodb.collection.Photo;
+import com.adarshgs.springbootmongodb.collection.Photo;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 

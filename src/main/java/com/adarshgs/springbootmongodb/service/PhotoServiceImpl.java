@@ -1,7 +1,7 @@
-package com.dailycodebuffer.springbootmongodb.service;
+package com.adarshgs.springbootmongodb.service;
 
-import com.dailycodebuffer.springbootmongodb.collection.Photo;
-import com.dailycodebuffer.springbootmongodb.repository.PhotoRepository;
+import com.adarshgs.springbootmongodb.collection.Photo;
+import com.adarshgs.springbootmongodb.repository.PhotoRepository;
 import org.bson.BsonBinarySubType;
 import org.bson.types.Binary;
 import org.springframework.beans.factory.annotation.Autowired;

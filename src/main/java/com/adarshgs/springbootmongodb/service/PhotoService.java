@@ -1,6 +1,6 @@
-package com.dailycodebuffer.springbootmongodb.service;
+package com.adarshgs.springbootmongodb.service;
 
-import com.dailycodebuffer.springbootmongodb.collection.Photo;
+import com.adarshgs.springbootmongodb.collection.Photo;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.io.IOException;

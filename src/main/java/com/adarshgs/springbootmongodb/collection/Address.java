@@ -1,4 +1,4 @@
-package com.dailycodebuffer.springbootmongodb.collection;
+package com.adarshgs.springbootmongodb.collection;
 
 import lombok.Builder;
 import lombok.Data;

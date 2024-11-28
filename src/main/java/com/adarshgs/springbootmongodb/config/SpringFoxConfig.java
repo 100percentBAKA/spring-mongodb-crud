@@ -1,4 +1,4 @@
-package com.dailycodebuffer.springbootmongodb.config;
+package com.adarshgs.springbootmongodb.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

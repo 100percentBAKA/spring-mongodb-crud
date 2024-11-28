@@ -1,11 +1,10 @@
-package com.dailycodebuffer.springbootmongodb.service;
+package com.adarshgs.springbootmongodb.service;
 
-import com.dailycodebuffer.springbootmongodb.collection.Person;
-import com.dailycodebuffer.springbootmongodb.repository.PersonRepository;
+import com.adarshgs.springbootmongodb.collection.Person;
+import com.adarshgs.springbootmongodb.repository.PersonRepository;
 import org.bson.Document;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
-import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Sort;
 import org.springframework.data.mongodb.core.MongoTemplate;
